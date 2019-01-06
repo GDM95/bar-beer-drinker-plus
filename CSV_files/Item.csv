@@ -1,0 +1,566 @@
+Name,Type,Manf,Base Price
+Quesadillas,food,,3.79
+Mozzarella Sticks,food,,1.11
+Hot wings,food,,1.6
+Pretzel,food,,2.04
+Macaroni and Cheese,food,,1.42
+Sliders,food,,2.64
+Popcorn,food,,2.5
+Peanuts,food,,2.53
+Fried pickles,food,,1.7
+Chips,food,,2.78
+Nachos,food,,3.22
+Potstickers,food,,1.1
+Pizza,food,,3.28
+Curator Dunkler Doppelbock,beer,Diageo North America,5.716095065
+Woodstock Wheat,beer,Lervig Aktiebryggeri,4.586598341
+High Life,beer,Carlsberg,4.887367573
+Sparkling Ale,beer,Asahi,6.102336125
+Hazelnut Brown Nectar,beer,Boston Beer Co.,5.726984461
+Honey Wheat,beer,Stone Brewing Berlin,5.938461308
+Endo IPA,beer,Diageo North America,4.243667261
+Hefe-Weizen Dunkel,beer,Constellation Brands,6.110599485
+Old Chub Scottish Style Ale,beer,Omnipollo,5.832331233
+Drop Top Amber Ale,beer,Brasserie De La Senne,4.971260199
+Uff-da Bock,beer,Pabst,5.732447617
+Boombalatty,beer,Boston Beer Co.,5.634326392
+Apple Spice,beer,Diageo North America,4.091179594
+Burly Brown,beer,Lervig Aktiebryggeri,6.086928708
+Burton Baton,beer,Craft Brew Alliance,6.693576119
+Curve Ball Kolsch,beer,Naparbier,4.323136949
+Pub Light Ale,beer,Brouwerij De Molen,6.390131652
+Canadian,beer,Carlsberg,3.683447747
+Strong Pale Ale,beer,Mikkeller,6.817961209
+Country Chase Ale,beer,Diageo North America,4.865499842
+Pale Rider,beer,Lervig Aktiebryggeri,4.645239366
+Hefe-Weizen,beer,Heineken USA,3.297309804
+Horseshoe,beer,Omnipollo,4.259622906
+Copperhead Ale,beer,Heineken USA,6.499293252
+Raspberry Wheat,beer,North American Breweries,3.387788742
+Steam,beer,Asahi,6.785478067
+Imperial Saison,beer,Brouwerij De Molen,6.921602501
+Red Ale,beer,Naparbier,3.15201693
+UFO Hefeweizen,beer,Naparbier,5.521589714
+Traditional Welsh Ale,beer,Tsingtao Brewery Group,5.531417238
+London Pride,beer,Duvel Moortgat USA,6.576366774
+Dark Beer,beer,Mikkeller,4.652058346
+Sea ESB,beer,Heineken USA,5.09116878
+Red Rush Ale,beer,Boston Beer Co.,6.412155828
+Western Lager,beer,Groupe Castel,3.238246411
+Slaughter Ale,beer,Naparbier,3.81551671
+Select,beer,Heineken USA,4.237101968
+Yeti Oak Aged Imperial Stout,beer,Cloudwater Brew Co.,5.674920796
+Golden Caramel Lager,beer,Lervig Aktiebryggeri,4.606055595
+Elbow,beer,Diageo North America,4.221021094
+Hopfen-Weisse,beer,Tiny Rebel,5.790358247
+Mai-Ur-Bock,beer,Lervig Aktiebryggeri,5.704489356
+Lovers Beer,beer,Kirin,3.770739292
+Doppelbock,beer,North American Breweries,6.316959149
+Red,beer,Constellation Brands,6.011658984
+Red Lager,beer,Cloudwater Brew Co.,5.82638735
+White Biere,beer,Duvel Moortgat USA,6.748790852
+Prospere,beer,Kirin,5.437891727
+Curly Tail Ale,beer,Constellation Brands,5.464816974
+Revenge Brown Ale,beer,Kirin,5.264358614
+Oktoberfest,beer,Kirin,4.519630751
+Summer Brew,beer,Carlsberg,6.56778006
+Oatmeal Stout,beer,Carlsberg,3.14450163
+Light,beer,Brasserie De La Senne,5.230288812
+Baltic Porter,beer,Brasserie De La Senne,5.78257987
+Crack'd Wheat,beer,Groupe Castel,6.486110299
+Raison D'Etre,beer,Groupe Castel,5.160820529
+Hennepin,beer,Magic Rock Brewing,5.465471812
+La Folie,beer,Cloudwater Brew Co.,6.780052006
+Gaelic Ale,beer,Cantillon,6.501126102
+Red Tail Ale,beer,Boston Beer Co.,4.874464801
+Noire,beer,Yanjing,6.34416099
+Apple Ale,beer,Brewdog,4.915219336
+Hefe-weizen,beer,Tsingtao Brewery Group,3.694322139
+Bach,beer,Gambrinus,3.823601977
+Gubna Imperial IPA,beer,Wild Beer Co.,3.854198673
+Ommegeddon,beer,Pabst,6.451350695
+Amber Light,beer,Tsingtao Brewery Group,3.514126521
+Blond Bock,beer,Anheuser-Busch InBev,6.675309457
+Apricot Ale,beer,Asahi,4.238212024
+California IPA,beer,Tsingtao Brewery Group,5.772241846
+Hen's Tooth,beer,Tsingtao Brewery Group,3.236310038
+Moon Man,beer,Mikkeller,5.457486895
+Premium Ale,beer,Brasserie De La Senne,5.782312443
+Bear Ultra Blonde,beer,Cantillon,4.182333408
+Alkoholfrei,beer,Gambrinus,5.549725993
+Blonde Lager,beer,Groupe Castel,6.096655181
+Copper Creek Amber Ale,beer,Heineken USA,5.662744142
+Australian Best Ale,beer,Magic Rock Brewing,3.708477236
+Especial,beer,Tiny Rebel,4.189219464
+Abbey Belgian Style Ale,beer,Beavertown,5.779537826
+Eye of the Hawk Ale,beer,Duvel Moortgat USA,4.866459648
+Original Munich Lager,beer,Yanjing,3.450759787
+Snowplow Milk Stout,beer,Groupe Castel,5.685471786
+Slam Dunkel,beer,Groupe Castel,3.099303758
+Premium Lager,beer,Wild Beer Co.,4.490682308
+Stein Beer,beer,Anheuser-Busch InBev,3.078766924
+Midas Touch,beer,MillerCoors,6.928809282
+Hammer IPA,beer,Lervig Aktiebryggeri,6.269103751
+Merry Monks' Ale,beer,Mikkeller,4.379426478
+Pikantus Dunkler Weizenbock,beer,Tiny Rebel,5.872471186
+Rye Porter,beer,MillerCoors,3.247511604
+Celebration Lager,beer,Carlsberg,4.701903611
+Ultra,beer,Wild Beer Co.,4.448426974
+Restoration Ale,beer,Boston Beer Co.,5.137638576
+Lemon Hooch,beer,Anheuser-Busch InBev,4.920006331
+Kapittel Pater,beer,Magic Rock Brewing,5.336222336
+Amber Lager,beer,Beavertown,3.308792112
+New York Amber,beer,Naparbier,6.62169209
+Extra Special Ale,beer,Naparbier,4.567219515
+Hard Lemonade,beer,Diageo North America,5.977582282
+Hammer Imperial Porter,beer,Constellation Brands,4.394735896
+Winter Skål,beer,Omnipollo,6.429941803
+Mild Ale,beer,Naparbier,3.675171394
+Nest Weizen,beer,Constellation Brands,6.876951019
+Genesis Ale,beer,Cloudwater Brew Co.,3.280883672
+Schlenkerla Rauchbier Marzen,beer,Wild Beer Co.,5.175126208
+Buck German Alt,beer,Duvel Moortgat USA,4.876992431
+Honey Red,beer,Kirin,5.562156666
+Bitter,beer,Asahi,3.073319712
+Winter Warmer,beer,Tsingtao Brewery Group,3.639716402
+Caramel Porter,beer,Asahi,6.171500513
+Skinny Dip Beer,beer,Tiny Rebel,6.706600567
+Mud Black & Tan,beer,Stone Brewing Berlin,5.317472281
+German Style Red Ale,beer,Naparbier,3.876872807
+Black Strap Stout,beer,Gambrinus,5.651071851
+Spring Bock,beer,Magic Rock Brewing,6.039614999
+Mountain Kolsch,beer,Diageo North America,6.773204709
+Razzberri Ale,beer,Diageo North America,5.502206471
+Special Lager,beer,Beavertown,5.422100306
+Messiah Bold,beer,Magic Rock Brewing,6.716299364
+Amberbier,beer,Constellation Brands,4.088562344
+London Porter,beer,Wild Beer Co.,5.576853565
+Acker,beer,MillerCoors,6.196306797
+Saint Bridget's Porter,beer,Beavertown,6.280189103
+Dead Guy Ale,beer,MillerCoors,5.830351744
+Old Numbskull,beer,Diageo North America,5.720260333
+American Pale Ale,beer,Carlsberg,3.391523234
+Original White Ale,beer,Constellation Brands,3.060525285
+St. Terese's Pale Ale,beer,Craft Brew Alliance,6.381636055
+Winter Storm,beer,Magic Rock Brewing,5.540181556
+Brutal Bitter,beer,Kirin,5.608614475
+Old Scratch Amber Lager,beer,Kirin,6.035481182
+Der Weisse Bock,beer,Heineken USA,5.766818693
+Irish Stout Pub Draught,beer,Craft Brew Alliance,3.567390227
+Weizen-Eisbock,beer,Stone Brewing Berlin,4.214641577
+Perros Ale,beer,Pabst,6.011276777
+Golden Amber Ale,beer,Brouwerij De Molen,4.240822435
+Ale,beer,MillerCoors,4.683621942
+Best,beer,Brewdog,6.781831436
+Mom Hefeweizen,beer,Tiny Rebel,3.680879689
+Alt,beer,Beavertown,3.580858433
+Expedition Ale,beer,Pabst,5.761774291
+Crow Ale,beer,Naparbier,5.539788302
+Loft Beer,beer,Tiny Rebel,6.072191391
+Kwak,beer,Mikkeller,4.730098905
+Lauritz Pilsner,beer,Gambrinus,6.665598259
+Lambic,beer,Heineken USA,6.750772683
+Double Abbey Ale,beer,Cloudwater Brew Co.,4.598378015
+Woody Creek White,beer,MillerCoors,4.256128258
+Creamy Dark,beer,Mikkeller,5.6491249
+Cliff Hanger Ale,beer,Stone Brewing Berlin,3.368015032
+White,beer,Magic Rock Brewing,5.587742359
+Fraises Lambic,beer,Anheuser-Busch InBev,5.478507273
+Dort,beer,Pabst,3.14800694
+Premium Czech Dark Lager,beer,Stone Brewing Berlin,3.924190143
+Amber Classic,beer,Brewdog,6.532839232
+Belgian Style Dubbel,beer,Heineken USA,3.062576799
+Kellerweis,beer,Magic Rock Brewing,3.076330311
+Heresy Imperial Stout,beer,Groupe Castel,5.153579895
+Kindl Weisse,beer,MillerCoors,5.343855218
+Genuine Pilsner,beer,Yanjing,4.62684827
+Bohemian Wheat Lager,beer,Lervig Aktiebryggeri,6.636510199
+Oktoberfest Marzen Amber,beer,Anheuser-Busch InBev,3.062812968
+Traditional Red Ale,beer,Beavertown,3.088948088
+Blue Ribbon,beer,Craft Brew Alliance,4.712256051
+Rip Curl,beer,Mikkeller,6.443572334
+Framboise,beer,Brouwerij De Molen,3.714697205
+Dark Lager,beer,Tiny Rebel,3.978322976
+American Ale,beer,Cantillon,5.031978277
+Hat Circus Boy Hefeweizen,beer,Heineken USA,3.103903745
+Anniversary Ale,beer,Kirin,3.146869952
+Dutch Amber,beer,Wild Beer Co.,5.649226132
+Weissbier Dunkel,beer,Beavertown,4.716739498
+Pils im Stein,beer,Heineken USA,6.565746654
+Irish Lager,beer,Gambrinus,5.594277263
+Hefe-Weiss Premium,beer,Naparbier,5.849154482
+Ginseng Brew,beer,Mikkeller,6.393980557
+Old Speckled Hen,beer,Naparbier,4.805931851
+V-Twelve,beer,Brouwerij De Molen,5.316406708
+Springs Premium Lager,beer,North American Breweries,4.165656935
+Wych Ale,beer,Diageo North America,6.341457654
+Honey Brown,beer,Heineken USA,3.190579942
+Harbor Real Ale,beer,Gambrinus,4.86178177
+Autumn Lager,beer,Duvel Moortgat USA,6.701625069
+Pils,beer,Duvel Moortgat USA,5.150477448
+Jingo Pale Ale,beer,MillerCoors,3.389488688
+Moerlein Select Lager,beer,Constellation Brands,3.171492542
+Head World Wide Stout,beer,Naparbier,5.122090386
+Belgian-Style Golden Ale,beer,Brewdog,6.224259073
+Lite,beer,Wild Beer Co.,6.113079048
+Wisconsin Amber,beer,Naparbier,5.594390236
+Pale Bock,beer,Craft Brew Alliance,6.10933583
+Wheat,beer,Anheuser-Busch InBev,4.018019812
+Gonzo Imperial Porter,beer,Naparbier,3.815243091
+Dry Hopped Saint Rogue Red Ale,beer,Groupe Castel,3.659203092
+Winter Ale,beer,Omnipollo,5.271028317
+River Porter,beer,Diageo North America,4.794364619
+Chmielowa Pils,beer,Diageo North America,5.247740624
+Golden Monkey,beer,Brouwerij De Molen,5.343668141
+Desert Pils,beer,Lervig Aktiebryggeri,5.557687568
+Genuine Draft,beer,Omnipollo,6.236403418
+Island Pils,beer,Brasserie De La Senne,3.615066046
+Moon Belgian White,beer,Constellation Brands,3.180876863
+Blue Heron Pale Ale,beer,Yanjing,6.675894618
+Alligator Ale,beer,Cloudwater Brew Co.,3.894504768
+Bohemian Pilsner,beer,Stone Brewing Berlin,5.511033452
+Lobotomy Bock,beer,Beavertown,4.419650755
+Double Bag Ale,beer,Pabst,6.955808479
+Hefeweizen,beer,Brewdog,4.779417022
+Special Pilsner,beer,Duvel Moortgat USA,6.328236513
+Bière Farmhouse Ale,beer,Wild Beer Co.,3.422112254
+Bock,beer,North American Breweries,4.95712414
+Amber Bock,beer,Craft Brew Alliance,6.600399078
+Spotted Cow Ale,beer,Brasserie De La Senne,3.107218187
+Blithering Idiot,beer,Craft Brew Alliance,3.75647226
+Sheep Ale,beer,Beavertown,3.910865811
+Blueberry Amber,beer,Craft Brew Alliance,6.545610713
+Rider Ale,beer,Cantillon,4.846494559
+Demolition,beer,Constellation Brands,4.121172317
+Tripel Reserve,beer,Craft Brew Alliance,3.219482228
+Pilsner,beer,Boston Beer Co.,4.672836224
+Blanca,beer,Naparbier,5.210788085
+Buckwheat Ale,beer,Beavertown,3.508126508
+Whistlepin Wheat Ale,beer,Mikkeller,5.913832774
+Brewmaster's Select,beer,Cloudwater Brew Co.,3.900634597
+Edel-Pils,beer,Gambrinus,5.274592088
+Kaiser Imperial Oktoberfest,beer,Naparbier,3.558027046
+British Ale,beer,Mikkeller,4.022517539
+Blonde Doppelbock,beer,Cantillon,5.793266222
+Light Beer,beer,Duvel Moortgat USA,5.37846642
+Blackberry Wheat,beer,Heineken USA,4.651520009
+One Porter,beer,Gambrinus,4.977379538
+Willie Stout,beer,Anheuser-Busch InBev,6.061196903
+Blanca Nut Brown Al,beer,Gambrinus,3.686112224
+Modelo,beer,Wild Beer Co.,5.695915486
+Brau-Weisse,beer,Wild Beer Co.,4.072778431
+Dunkle Weisse,beer,Omnipollo,6.788396214
+Natural Blonde,beer,Carlsberg,6.333825837
+Organic Munster Alt,beer,Brewdog,6.912714681
+Turbodog,beer,Duvel Moortgat USA,4.46603984
+Summerfest,beer,Brasserie De La Senne,5.609332439
+Honker's Ale,beer,Tsingtao Brewery Group,6.612767172
+Mad Elf,beer,Beavertown,3.412889899
+Banana Lambic,beer,Wild Beer Co.,4.177942248
+Liberty Ale,beer,Yanjing,3.141238451
+Bruin,beer,Duvel Moortgat USA,4.193915692
+Dogtoberfest,beer,Brasserie De La Senne,5.458175697
+Lager,beer,Brewdog,5.674660538
+Scout Stout,beer,Stone Brewing Berlin,3.7697839
+Coldfoot Pilsner,beer,North American Breweries,4.388347064
+Honey Light,beer,Lervig Aktiebryggeri,6.744123694
+Ants,beer,Boston Beer Co.,3.376244318
+Haymaker Extra Pale Ale,beer,Magic Rock Brewing,5.839687154
+Doggie Style Classic Pale Ale,beer,Boston Beer Co.,6.009357068
+Autumnal Fire,beer,Magic Rock Brewing,6.098647776
+de Chambly,beer,Mikkeller,3.489833569
+Witte,beer,Beavertown,4.700015368
+Organic Hefe-Weizen,beer,Brewdog,4.957021238
+High Life Light,beer,Lervig Aktiebryggeri,5.729103702
+Dunkel Weisse,beer,Diageo North America,4.180189852
+XXX Stout,beer,Groupe Castel,3.9360418
+Hop Devil Ale,beer,Asahi,3.21730411
+90 Minute Imperial IPA,beer,Yanjing,3.996921237
+de Bourgogne,beer,Stone Brewing Berlin,4.552816389
+14er's ESB,beer,Craft Brew Alliance,6.084554673
+Golden Ale,beer,Heineken USA,3.661445627
+Imperial Pale Ale,beer,Tsingtao Brewery Group,3.232659884
+Harvest Ale,beer,North American Breweries,4.756788673
+Rugged Trail Nut Brown Ale,beer,Duvel Moortgat USA,3.052686671
+Knight,beer,Beavertown,5.440935688
+Billy Bock,beer,Cantillon,3.356471412
+Hi Dry,beer,Magic Rock Brewing,5.002603838
+Bavarian X-Winter,beer,Brasserie De La Senne,3.69562213
+Steamboat Shandy,beer,Constellation Brands,3.790817789
+Dubbel Belgian Abbey Ale,beer,Cantillon,4.051989993
+Titan IPA,beer,Brouwerij De Molen,5.07172573
+Triple Abbey Ale,beer,Gambrinus,3.662281006
+Equis,beer,Carlsberg,3.611567941
+Export Ale,beer,Pabst,3.897253767
+Bear Pale Ale,beer,Groupe Castel,5.937174162
+Rustic Ale,beer,Duvel Moortgat USA,6.676400748
+Morimoto Black Obi,beer,Craft Brew Alliance,6.187094894
+Kaper,beer,Diageo North America,3.342179976
+Pur Malt,beer,MillerCoors,6.226357066
+Northern Light Ale,beer,Cloudwater Brew Co.,3.425099634
+Decadent,beer,Kirin,6.193296318
+Western Premium Pilsner,beer,Cantillon,5.118780944
+Organic Belgian Ale,beer,Stone Brewing Berlin,4.813459706
+Altfrankisches Dunkel,beer,Stone Brewing Berlin,6.95757941
+Witches Brew,beer,Groupe Castel,3.663543371
+India Pale Ale,beer,Duvel Moortgat USA,6.506994876
+Black Wheat,beer,Lervig Aktiebryggeri,4.911892714
+Lightning Bold Gold,beer,MillerCoors,6.695846713
+Bavarian Lager,beer,Craft Brew Alliance,4.328723125
+Light Ale,beer,Tiny Rebel,3.638890877
+Belgian Style Golden Ale,beer,Asahi,6.136166355
+Hammerhead Red Ale,beer,Carlsberg,4.845795307
+Broken Halo IPA,beer,Kirin,5.469903254
+Wheat Beer,beer,North American Breweries,6.524864963
+Red Jack,beer,Constellation Brands,6.331243309
+Extra Pale Ale,beer,Brasserie De La Senne,5.769274906
+Black Lager,beer,Gambrinus,3.378680587
+Elephant Lager,beer,Carlsberg,3.596544744
+Road Dog Scottish Porter,beer,Magic Rock Brewing,5.489477224
+Premium,beer,Duvel Moortgat USA,4.759259538
+Red Amber Ale,beer,MillerCoors,3.862585149
+Heather Ale,beer,Tiny Rebel,5.435070658
+York Harbor Ale,beer,Brouwerij De Molen,6.157036984
+Holy Grail Ale,beer,Anheuser-Busch InBev,4.349056885
+Grand Cru,beer,Brasserie De La Senne,4.751787707
+Wee Heavy,beer,Gambrinus,4.653962669
+Winter Brew,beer,Kirin,3.152726502
+Enigma,beer,Pabst,3.493336899
+471 ESB,beer,Cantillon,3.76663681
+Raspberry Wheat Ale,beer,Constellation Brands,3.552765968
+Garry Dark Ale,beer,MillerCoors,5.878774966
+Denver Pale Ale,beer,Kirin,6.010166111
+Commemorator,beer,Naparbier,4.549572874
+Pilsen,beer,Diageo North America,3.579497609
+Maibock,beer,Pabst,5.025606555
+Honey Brown Lager,beer,Boston Beer Co.,5.917385495
+Douglas Ale,beer,Magic Rock Brewing,4.681745983
+Springs UrBock,beer,Omnipollo,3.82649277
+Matilda,beer,Duvel Moortgat USA,4.776750482
+Rally Cap Ale,beer,North American Breweries,3.27104248
+Pub Lager,beer,Wild Beer Co.,3.831829229
+Honey Weiss,beer,Lervig Aktiebryggeri,3.118604897
+Hop Wallop,beer,Gambrinus,5.391067847
+Celebration Ale,beer,Stone Brewing Berlin,3.404584061
+Calibogue Amber,beer,Cantillon,3.873351202
+Blonde,beer,Kirin,3.810347725
+Golden Pilsner,beer,Diageo North America,6.377790214
+Outlaw Lager,beer,Cloudwater Brew Co.,3.297430045
+Red Irish Ale,beer,Yanjing,3.476279842
+K-9 Cruiser Altitude Ale,beer,Duvel Moortgat USA,5.894095858
+Dunkel Weiss,beer,Lervig Aktiebryggeri,5.189722486
+Scottish Ale,beer,Brouwerij De Molen,5.590147464
+Three Philosophers,beer,Yanjing,5.594669862
+Irish Stout,beer,Cloudwater Brew Co.,3.415347496
+312 Urban Wheat Ale,beer,Stone Brewing Berlin,6.084997121
+Copper Ale,beer,Heineken USA,3.204808845
+Maharaja Imperial IPA,beer,Wild Beer Co.,6.661847451
+Baltic Thunder,beer,Cloudwater Brew Co.,4.225906528
+Rib Mountain Rye,beer,Tsingtao Brewery Group,5.01464391
+Chocolate Indulgence,beer,Kirin,3.615754266
+India Dark Ale,beer,Naparbier,6.673524832
+Red Label,beer,Brasserie De La Senne,3.243372184
+Honey Cream Ale,beer,Boston Beer Co.,5.275660541
+Drool Brown Ale,beer,Constellation Brands,4.687593186
+Best Light,beer,Brewdog,6.247973145
+Brown Ale,beer,Wild Beer Co.,5.832347632
+He'Brew Jewbelation 13 Bar Mitzvah,beer,Carlsberg,4.519513502
+Ridge Bock Oktoberfest,beer,Yanjing,6.85454421
+Mountain Five Malt Ale,beer,Kirin,4.843175749
+Kloster Weizen,beer,Heineken USA,6.541777245
+Double Barrel Ale,beer,Cloudwater Brew Co.,5.99562115
+Fat Boy Blue,beer,MillerCoors,6.602762431
+Signature Pilsner,beer,Groupe Castel,6.37171549
+American Amber Lager,beer,Groupe Castel,4.249155944
+Illumination Double IPA,beer,Wild Beer Co.,6.195011232
+Super Premium Lager,beer,Omnipollo,4.199761294
+Snake Dog IPA,beer,Tsingtao Brewery Group,6.70849598
+Special Bitter,beer,Stone Brewing Berlin,5.881315884
+60 Minute IPA,beer,Asahi,5.31762692
+Weissbier,beer,Beavertown,6.209370544
+Chesterfield Ale,beer,Stone Brewing Berlin,5.271008424
+All Natural Tripel Blonde Ale,beer,Mikkeller,3.864689985
+Einbock,beer,Beavertown,4.673930649
+American Amber Ale,beer,North American Breweries,6.90592019
+#3 Classic Lager,beer,Gambrinus,5.164711811
+471 double IPA,beer,Lervig Aktiebryggeri,6.87545797
+Classica,beer,Constellation Brands,6.200379237
+Fat Tire Amber Ale,beer,Anheuser-Busch InBev,5.642509891
+Creek ESB,beer,Brouwerij De Molen,4.974603574
+Easy Beer,beer,Wild Beer Co.,5.531213559
+Blue Fin Stout,beer,Mikkeller,6.391454027
+Koelsch,beer,MillerCoors,6.221259474
+Premium Light,beer,Anheuser-Busch InBev,4.747337374
+Mothership Wit,beer,North American Breweries,4.227527448
+Piva Bohemian Pilsner,beer,Gambrinus,3.974204868
+Horizon Wheat,beer,Gambrinus,4.149619102
+Woman From Hell Extra IPA,beer,Brouwerij De Molen,3.062217567
+Hibernator,beer,Gambrinus,4.550602193
+Butt English Porter,beer,Gambrinus,5.006663035
+Winter Amber Ale,beer,Gambrinus,3.171799345
+Munich Dark,beer,Constellation Brands,6.806823341
+Blonde French Golden Ale,beer,Lervig Aktiebryggeri,6.118181173
+Bear Southern Blonde,beer,Pabst,3.869638443
+Nastro Azzurro,beer,Craft Brew Alliance,4.113380304
+Scotch Ale,beer,Yanjing,5.041912375
+Monk Madness Ale,beer,MillerCoors,4.347564216
+XXX,beer,Anheuser-Busch InBev,4.071794627
+Mountain Tasmanian Pale Ale,beer,Heineken USA,3.569065403
+Dorada,beer,MillerCoors,4.093158164
+Ice Light,beer,Asahi,4.740928875
+Vintage Ale,beer,Tiny Rebel,6.784882588
+Chocolate Porter,beer,Stone Brewing Berlin,6.063840385
+Black Wattle Superior,beer,Craft Brew Alliance,3.543430087
+Chipotle Ale,beer,Brewdog,3.169819239
+Dale's Pale Ale,beer,Brewdog,4.685741821
+Native Ale,beer,Diageo North America,5.785533173
+Original Leipziger Bier,beer,Craft Brew Alliance,4.833836073
+Peg Leg Imperial Stout,beer,Asahi,3.202057961
+Traditional,beer,Mikkeller,6.210173577
+Winter Lager,beer,Wild Beer Co.,5.203836879
+Premium Pils,beer,Kirin,4.198103529
+Troegenator Doppelbock,beer,Tsingtao Brewery Group,5.769849014
+Hex Nut Brown Ale,beer,Brewdog,3.918897332
+Eye Pilsner,beer,Tsingtao Brewery Group,3.254551351
+Salvation,beer,North American Breweries,6.137661064
+Oscura,beer,Tsingtao Brewery Group,3.846940022
+Jockamo IPA,beer,Omnipollo,5.904958843
+Elfego Bock,beer,Omnipollo,5.933898414
+Kolsch,beer,MillerCoors,4.189739237
+Unfiltered Wheat Beer,beer,Asahi,3.580882418
+Weisse Dark,beer,Brouwerij De Molen,3.852109439
+Schwarzbier,beer,Asahi,6.065847102
+Cask Ale,beer,Kirin,6.683794213
+Kilgubbin Red Ale,beer,Cloudwater Brew Co.,4.245120816
+Black Porter,beer,MillerCoors,4.468920379
+Pedigree,beer,Groupe Castel,3.232960284
+De Dieu,beer,Anheuser-Busch InBev,6.459718099
+Bier,beer,Tiny Rebel,5.674603324
+Bavarian Style Lager,beer,Magic Rock Brewing,6.015220136
+#5 Gold Beer,beer,North American Breweries,4.059712607
+Pale Ale,beer,Omnipollo,5.521987958
+Porter,beer,Yanjing,4.279210827
+Black Label,beer,Constellation Brands,6.402562597
+Cream Ale,beer,Brasserie De La Senne,3.283603337
+Two Hearted Ale,beer,Duvel Moortgat USA,6.816865135
+Carolus Noël,beer,Diageo North America,5.952376159
+& Barnes Festive Ale,beer,Carlsberg,5.885292631
+Stout,beer,Kirin,5.896298248
+Irish Stone Brewed Light,beer,Brasserie De La Senne,6.943674144
+HefeWeizen,beer,Constellation Brands,4.887434806
+Ed's Cave Creek Chili Beer,beer,Yanjing,3.070067802
+Anniversary Ten,beer,Asahi,5.247722783
+Bourbon Barrel Cherry Stout,beer,Brouwerij De Molen,3.980853547
+Acker Dark,beer,Boston Beer Co.,5.97151722
+Transatlantique Kriek,beer,Stone Brewing Berlin,4.229250079
+Redpoint Ale,beer,Magic Rock Brewing,4.152218975
+IPA,beer,Carlsberg,5.167282308
+Chocolate Stout,beer,Cloudwater Brew Co.,4.319965969
+Pheasant,beer,Yanjing,3.454198278
+Black Spring Double Stout,beer,Pabst,4.552796648
+Republic Red Rocket Ale,beer,Naparbier,5.608283096
+Hat Blind Faith,beer,Constellation Brands,3.160294229
+India Export Pale Ale,beer,Magic Rock Brewing,3.54397494
+OV,beer,Brouwerij De Molen,3.48738278
+St. Stock Ale,beer,Mikkeller,6.708502087
+Weisse,beer,Gambrinus,4.617547164
+Eisphyre,beer,Yanjing,6.403864273
+Widow Oatmeal Stout,beer,Cantillon,3.396966084
+Chocolate Brown Ale,beer,Tiny Rebel,5.3648855
+Beer,beer,Brasserie De La Senne,6.635419939
+Biersch Maibock,beer,Pabst,5.112591775
+Pale Beer,beer,Tsingtao Brewery Group,5.149447036
+Golden Revolution,beer,Beavertown,5.04067764
+Premium Bavarian Pilsner,beer,Kirin,4.144752744
+Hercules Double IPA,beer,Tsingtao Brewery Group,3.227300055
+Summer Ale,beer,Boston Beer Co.,5.524678365
+Blue Paddle Pilsner,beer,Wild Beer Co.,5.614234785
+Lager Beer,beer,Omnipollo,4.893696997
+Fest,beer,Tiny Rebel,6.897949421
+Dancing Man Wheat,beer,Brewdog,5.656553638
+Blackjack Ale,beer,Wild Beer Co.,4.078903211
+Extra Stout,beer,MillerCoors,4.716094896
+Equis Amber,beer,Brouwerij De Molen,6.336380995
+Kells Irish Lager,beer,Cloudwater Brew Co.,4.57905151
+Bock Beer,beer,Brasserie De La Senne,3.276391961
+Storm King Stout,beer,Asahi,5.19715414
+Helles Lager,beer,Magic Rock Brewing,5.053532138
+Bohemian Black Lager,beer,Asahi,4.859718728
+Ichiban Special Premium Reserve,beer,Mikkeller,5.889246185
+Amber,beer,Anheuser-Busch InBev,3.961658815
+de Charleroi White Ale,beer,Wild Beer Co.,4.897721585
+Damm Daura,beer,Groupe Castel,3.942521305
+River Vienna Lager,beer,Tiny Rebel,4.365434104
+Long Iron Bohemian Style Pilsner,beer,Kirin,3.760297529
+Brewery Kasteel Donker,beer,Cantillon,5.45954248
+Zamkowe,beer,North American Breweries,3.499899304
+U.S. Pale Ale,beer,Pabst,4.226254681
+Cleary Red Amber Ale,beer,Craft Brew Alliance,3.099219614
+California Pale Ale,beer,Pabst,4.135679588
+Almond Stout,beer,Stone Brewing Berlin,5.082737281
+Schwarze Weisse,beer,Carlsberg,5.62721886
+Prima Pils,beer,Cloudwater Brew Co.,6.045807397
+Red Banshee Ale,beer,Diageo North America,4.497131576
+Christmas Ale,beer,Pabst,4.830428406
+Abbey Ale,beer,Cloudwater Brew Co.,3.697147085
+Amber Ale,beer,Asahi,4.304065275
+Butte Porter,beer,Omnipollo,3.150556289
+Oak Aged Beer,beer,Pabst,6.902158275
+Honey Lager,beer,Asahi,5.257450254
+Uber Pils,beer,Pabst,3.751190709
+Cherry Stout,beer,Wild Beer Co.,3.035004819
+Perfect Porter,beer,Boston Beer Co.,5.423041179
+Ness,beer,Carlsberg,5.918900513
+Bear Irish Red,beer,Gambrinus,4.199184833
+Pub Ale,beer,Anheuser-Busch InBev,4.197400254
+Pub Draught,beer,Diageo North America,3.80092554
+Chill,beer,Boston Beer Co.,5.969266407
+St. Tankhouse Ale,beer,Stone Brewing Berlin,4.326151605
+Summer Shandy,beer,Diageo North America,3.400148632
+Elf Double Bock,beer,Magic Rock Brewing,3.382816542
+Star Wheat Beer,beer,Kirin,5.994492791
+Sawtooth Ale,beer,Brouwerij De Molen,3.675039607
+Oat Malt Stout,beer,Tiny Rebel,5.766244261
+Original,beer,Lervig Aktiebryggeri,5.909964397
+Organic English Ale,beer,Craft Brew Alliance,4.373805244
+Golden,beer,Beavertown,5.404836515
+Malzbier,beer,MillerCoors,4.135652998
+Honey Ale,beer,Groupe Castel,6.516185403
+Gold,beer,Cloudwater Brew Co.,3.387721885
+Black Mocha Stout,beer,Stone Brewing Berlin,4.175232938
+Aprihop,beer,Stone Brewing Berlin,6.870281225
+Urquell,beer,Heineken USA,4.116873514
+Special,beer,MillerCoors,3.609842153
+River Pale Ale,beer,Tiny Rebel,5.466253511
+Stone Soup,beer,North American Breweries,5.095560283
+Baron Ale,beer,Tsingtao Brewery Group,5.181351737
+Damm,beer,Groupe Castel,3.556346099
+Ice,beer,Cantillon,4.775816524
+Berry Weiss,beer,Groupe Castel,5.50596382
+Two Women New,beer,MillerCoors,6.440419646
+Doppio Malto,beer,Cloudwater Brew Co.,5.039263614
+Hellenic Lager Beer,beer,Anheuser-Busch InBev,6.088109924
+Hefe-Weisse,beer,Boston Beer Co.,3.633780573
+Blonde Sur Lie,beer,Naparbier,6.380552853
+Black Hawk Stout,beer,Naparbier,6.160211005
+Fine Malt Liquor,beer,Gambrinus,4.480903656
+Imperial Weizen,beer,Yanjing,6.441370688
+Clearwater Light,beer,Beavertown,4.098323328
+Weisse Hefe-Weizen,beer,Wild Beer Co.,4.345607616
+Brau Kolsch,beer,Tsingtao Brewery Group,3.035781613
+Dark,beer,Gambrinus,6.593429597
+Black & Tan,beer,Carlsberg,3.037453965
+Dubbel Reserve,beer,Duvel Moortgat USA,5.332290016
+Traditional Pilsner,beer,Magic Rock Brewing,5.999643566
+Blackout Stout,beer,North American Breweries,4.760466393
+Solstice Imperial Stout,beer,Groupe Castel,4.112671218
+ESB,beer,Brouwerij De Molen,4.547389141
+Straight Arrow Ale,beer,Naparbier,5.067843244
+Diesel Lager Beer,beer,Craft Brew Alliance,5.526792512
+Sour Brown Ale,beer,Brewdog,5.166448396
+Oatmeal Porter,beer,Cloudwater Brew Co.,4.646532054
+Island Wheat,beer,North American Breweries,5.858587637
+Old Brown Ale,beer,Wild Beer Co.,5.983603368
+Auburn Ale,beer,Gambrinus,3.635510195
+Keg Can,beer,Omnipollo,3.318976055
+Draak,beer,North American Breweries,6.803681434

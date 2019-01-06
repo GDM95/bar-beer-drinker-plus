@@ -1,0 +1,25 @@
+1) Transactions/bills  cannot be issued  at times when the given bar is closed
+
+
+SELECT NOT EXISTS(
+SELECT * from Transactions t JOIN Hour h ON 
+t.Bar = h.Bar
+WHERE t.Time NOT BETWEEN h.Open AND h.Close
+
+
+2) Drinkers cannot frequent bars in different state
+
+SELECT NOT EXISTS (
+SELECT DISTINCT f.Name, b.Bar from Frequents f, Bar b, Drinker d 
+WHERE f.Name = d.Name
+AND f.Bar = b.Bar
+AND d.State <> b.State);
+
+
+3) For every two beers, s1 and s2, different bars may charge differently for s1 and s2 but s1 should either be less expensive than s2 in ALL bars or more expensive than s2 in ALL bars.  Cannot be the case that in one bar Corona is more expensive than Bud and in another Bud is more expensive than Corona.  But Corona may be more expensive than Bud in one bar, and have the same price as Bud in another.
+
+SELECT NOT EXISTS(select s1.Name, s2.Name from Sells s1, Sells s2, Sells s3, Sells s4
+WHERE Type = 'beer'
+AND(s1.Bar <> s3.Bar)
+AND(s2.Price > s1.Price AND s3.Bar = s4.Bar)
+AND(s1.Price > s2.Price AND s1.Bar = s2.Bar);
